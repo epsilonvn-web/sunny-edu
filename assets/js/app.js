@@ -2,6 +2,7 @@
 
 /**
  * Sunny Edu - Frontend shell
+ * Theme: Green - Yellow - White
  * ------------------------------------------------------------
  * API_URL để trống ở bản khung. Khi có Google Apps Script,
  * điền URL /exec vào đây và triển khai action public submitLead.
