@@ -4,7 +4,7 @@
  * - Không cache token, form response, hồ sơ người dùng hay API private.
  * - Khi cập nhật lớn, tăng CACHE_VERSION để loại cache cũ.
  */
-const CACHE_VERSION = 'sunnyedu-v1';
+const CACHE_VERSION = 'sunnyedu-v2';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 
 const CORE_ASSETS = [
